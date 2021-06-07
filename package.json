@@ -1,0 +1,18 @@
+{
+  "name": "soundpad-bot",
+  "version": "1.0.0",
+  "description": "Soundpad Discord Bot",
+  "main": "candeniz.js",
+  "scripts": {
+    "start": "node candeniz.js"
+  },
+  "author": "Candeniz (candenizerdall@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.3.0",
+    "fs": "0.0.1-security"
+  }
+}
